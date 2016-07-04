@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="DataBaseTest">
+    <output-path>$USER_HOME$/Desktop/Mark</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.MainApp" />
+        <option name="description" value="" />
+        <option name="height" value="475" />
+        <option name="htmlParamFile" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="paramFile" value="" />
+        <option name="title" value="Inventory" />
+        <option name="vendor" value="" />
+        <option name="width" value="750" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="DataBaseTest.jar">
+        <element id="module-output" name="LabelInventory" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,109 @@
+.root {
+    -fx-font-family: Papyrus;
+    -fx-alignment: center;
+    -fx-hgap: 10;
+    -fx-vgap: 10
+}
+
+.title {
+    -fx-font-family: Helvetica;
+    -fx-font-size: 12px;
+
+}
+
+.label {
+    -fx-font-family: Helvetica;
+    -fx-font-weight: bold;
+}
+
+.text-field {
+    -fx-font-family: Helvetica;
+}
+
+.button {
+    -fx-font-family: Helvetica;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.yellow {
+    -fx-background-color: yellow;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+#diameterEventTextField {
+    -fx-background-color: royalblue;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.orange {
+    -fx-background-color: orange;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.green {
+    -fx-background-color: LawnGreen;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.mediumturgquoise {
+    -fx-background-color: MediumTurquoise;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.chartreuse {
+    -fx-background-color: Chartreuse;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.royalblue {
+    -fx-background-color: RoyalBlue;
+    -fx-font-family: Arial Black;
+    -fx-font-size: 14px;
+}
+
+.steelblue {
+    -fx-background-color: SteelBlue;
+    -fx-font-family: Arial Black;
+    -fx-font-size: 14px;
+}
+
+.dodgerblue {
+    -fx-background-color: DodgerBlue;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.olive {
+    -fx-background-color: Olive;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+.crimson {
+    -fx-background-color: Crimson;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.red {
+    -fx-background-color: Red;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+}
+
+.table {
+    -fx-font-family: Helvetica;
+}
+
+.firebrick {
+    -fx-background-color: FireBrick;
+    -fx-font-family: Impact;
+    -fx-font-size: 14px;
+          }
+
