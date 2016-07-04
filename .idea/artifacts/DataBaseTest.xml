@@ -16,7 +16,7 @@
     </properties>
     <root id="root">
       <element id="archive" name="DataBaseTest.jar">
-        <element id="module-output" name="LabelInventory" />
+        <element id="module-output" name="DataBaseTest" />
       </element>
     </root>
   </artifact>

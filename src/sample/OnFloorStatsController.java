@@ -18,7 +18,7 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ResourceBundle;
 
-public class OnFloorStatsController implements Initializable {
+public class OnFloorStatsController {
 
 //    @FXML
 //    private TableView<Material> materialTable;
@@ -53,11 +53,6 @@ public class OnFloorStatsController implements Initializable {
         this.mainApp = mainApp;
     }
 
-    /**
-     * Is called by the main application to give a reference back to itself.
-     *
-     * @param mainApp
-     */
 
 
     final static String austria = "14532";
@@ -171,12 +166,12 @@ public class OnFloorStatsController implements Initializable {
         stage.show();
     }
 
-    @Override
-    public void initialize(URL location, ResourceBundle resources) {
-
-    }
-
-//    public void setMainApp(MainApp mainApp) {
-//        this.mainApp = mainApp;
+//    @Override
+//    public void initialize(URL location, ResourceBundle resources) {
+//
 //    }
+//
+////    public void setMainApp(MainApp mainApp) {
+////        this.mainApp = mainApp;
+////    }
 }
